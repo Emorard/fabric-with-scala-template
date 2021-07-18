@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Fabric with scala template
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+The [fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) which applied [fabric-language-scala](https://github.com/FabricMC/fabric-language-scala)
