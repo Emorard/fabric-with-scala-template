@@ -4,6 +4,6 @@ import net.fabricmc.api.ModInitializer
 
 object ExampleMod extends ModInitializer {
     override def onInitialize(): Unit = {
-        println("Hello Fabric world!)
+        println("Hello Fabric world!")
     }
 }
